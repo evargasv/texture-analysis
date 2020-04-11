@@ -12,19 +12,13 @@ This projects deals with the problem of texture classification, applied to Compu
 (CT) imaging. Our goal is to differentiate between four different tissues, belonging to Region
 of Interest (ROI) previously defined: kidneys, liver, lungs and spleen.
 
-<div class="row">
-  <div class="column">
-    <img src="/img/kidneys.png" alt="Kidneys" style="width:200px">
-  </div>
-  <div class="column">
-    <img src="/img/liver.png" alt="Liver" style="width:200px">
-  </div>
-  <div class="column">
-    <img src="/img/lungs.png" alt="Lungs" style="width:200px">
-  </div>
-  <div class="column">
-    <img src="/img/spleen.png" alt="Spleen" style="width:200px">
-  </div>
-</div>
+<p float="left">
+  <img src="/img/kidneys.png" width="200px">
+  <img src="/img/liver.png" width="200px">
+  <img src="/img/lungs.png" width="200px">
+  <img src="/img/spleen.png" width="200px">
+</p>
+
+
 
 
