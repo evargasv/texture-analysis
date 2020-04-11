@@ -28,9 +28,9 @@ neighbourhood as texture features, in order to perform single image classificati
 texture class instances in CT imaging.
 
 <p align="center">
-  <img src="/img/seg_kidneys.png" width="200px">
+  <img src="/img/seg_kidney.png" width="200px">
   <img src="/img/seg_liver.png" width="200px">
-  <img src="/img/seg_lungs.png" width="200px">
+  <img src="/img/seg_lung.png" width="200px">
   <img src="/img/seg_spleen.png" width="200px">
 </p>
 
