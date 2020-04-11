@@ -1,8 +1,10 @@
-# texture-analysis
+# Texture Enhanced Tissue Analysis
+
+## Motivation
 
 Discriminating one texture from another can be a challenge even for the human eye in some situations. In Computer Vision, textures can be described by a different amount of features studied through the literature. The main challenge consist in determining which features are relevant enough to successfully distinguish one texture from another.
 
-n medical image analysis, texture is one of the most useful features, since it can be applied
+In medical image analysis, texture is one of the most useful features, since it can be applied
 to a wide variety of problems. One example is the classification of organ tissue, which is hard to
 classify using shape or gray level information because shape is not consistent and the intensities
 overlap for the case of soft tissues. The use of textures might be useful in this context, considering
@@ -19,6 +21,23 @@ of Interest (ROI) previously defined: kidneys, liver, lungs and spleen.
   <img src="/img/spleen.png" width="200px">
 </p>
 
+## Texture Analysis
+
+MATLAB implementation of Varma and Zisserman classifier, using the intensity values of a local
+neighbourhood as texture features, in order to perform single image classification on different
+texture class instances in CT imaging.
+
+<p align="center">
+  <img src="/img/seg_kidneys.png" width="200px">
+  <img src="/img/seg_liver.png" width="200px">
+  <img src="/img/seg_lungs.png" width="200px">
+  <img src="/img/seg_spleen.png" width="200px">
+</p>
+
+
+## References
+
+- Varma M, Zisserman A. *Texture classification: Are filter banks necessary?*. In 2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings. 2003 Jun 18 (Vol. 2, pp. II-691).
 
 
 
