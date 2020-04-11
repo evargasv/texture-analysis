@@ -12,7 +12,7 @@ This projects deals with the problem of texture classification, applied to Compu
 (CT) imaging. Our goal is to differentiate between four different tissues, belonging to Region
 of Interest (ROI) previously defined: kidneys, liver, lungs and spleen.
 
-<p float="center">
+<p align="center">
   <img src="/img/kidneys.png" width="200px">
   <img src="/img/liver.png" width="200px">
   <img src="/img/lungs.png" width="200px">
