@@ -20,7 +20,7 @@ of Interest (ROI) previously defined: kidneys, liver, lungs and spleen.
     <img src="/img/liver.png" alt="Liver" style="width:200px">
   </div>
   <div class="column">
-    <img src="/img/lungs.png" alt="Lungs" style="200px">
+    <img src="/img/lungs.png" alt="Lungs" style="width:200px">
   </div>
   <div class="column">
     <img src="/img/spleen.png" alt="Spleen" style="width:200px">
