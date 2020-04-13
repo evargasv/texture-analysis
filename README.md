@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Discriminating one texture from another can be a challenge even for the human eye in some situations. In Computer Vision, textures can be described by a different amount of features studied through the literature. The main challenge consist in determining which features are relevant enough to successfully distinguish one texture from another.
+Discriminating one texture from another can be a challenge even for the human eye in a variety of situations. In Computer Vision, textures can be described by a different amount of features studied through the literature. The main challenge consist in determining which features are relevant enough to successfully distinguish one texture from another.
 
 In medical image analysis, texture is one of the most useful features, since it can be applied
 to a wide variety of problems. One example is the classification of organ tissue, which is hard to
