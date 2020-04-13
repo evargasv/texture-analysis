@@ -37,7 +37,7 @@ texture class instances in CT imaging.
 
 ## References
 
-- Varma M, Zisserman A. *Texture classification: Are filter banks necessary?*. In 2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings. 2003 Jun 18 (Vol. 2, pp. II-691).
+- Varma, M. and Zisserman, A.,*Texture classification: Are filter banks necessary?*. In IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings. (Vol. 2, pp. II-691). IEEE.
 
 
 
